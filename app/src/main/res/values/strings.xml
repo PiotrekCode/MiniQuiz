@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mini Quiz</string>
+    <string name="rozpocznij">ROZPOCZNIJ QUIZ</string>
+    <string name="resetuj">RESETUJ QUIZ</string>
+    <string name="wynik">Wynik: %1$d</string>
+    <string name="koniec_tytul">Koniec quizu!</string>
+    <string name="koniec_tekst">Twoj wynik: %1$d / %2$d</string>
+</resources>
