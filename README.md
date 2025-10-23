@@ -20,7 +20,7 @@ Na końcu pokazuje wynik oraz daje możliwość zresetowania quizu.
 
 1. **Sklonuj lub pobierz projekt**:
    ```bash
-   git clone https://github.com/twoj-login/MiniQuiz.git
+   git clone https://github.com/PiotrekCode/MiniQuiz.git
 
 ![Stan początkowy](screen/screen.png)
 ![Pytanie](screen/screen1.png)
